@@ -1,43 +1,32 @@
-# Hi there, I'm Alysson Miclos 
+# Hi, I'm Alysson de Almeida Miclos
 
 ### Senior IT Infrastructure Specialist | Digital Resilience Architect | CEO at SERVICETECH
+Former IBM Level 3 Specialist · IEEE SA Technical Committee · AI & N8N Automation Specialist · MBA Project Manager
 
-Senior specialist with over 22 years of experience in high-complexity technological infrastructure, project management, and mission-critical environments. Former IBM Level 3 Specialist (the highest tier of technical field seniority) with a 17-year career at IBM Brazil. Currently Founder & CEO at **Servicetech**, leading specialized consulting in systemic resilience, business continuity, automated workflows, and IT governance.
+I architect resilient enterprise ecosystems and design disaster recovery workflows for high-complexity, mission-critical environments. My work bridges legacy computing architectures with modern hyperautomation, connecting mainframes, robust storage structures, and AI-driven processes for 24/7 business continuity.
 
-Active International Member of the **IEEE** and the International Technical Committee (IEEE SA).
+Currently focused on leading **Servicetech Services in Technology**, deploying cognitive resilience solutions, enterprise-grade N8N automation pipelines, and robust IT governance for mission-critical operations.
 
----
+I care about systemic resilience, hardware-level diagnostics, pragmatic systems engineering, and engineering bulletproof infrastructures that prevent catastrophic business downtime.
 
-### 🛠️ Core Expertise & Technologies
-
-#### 💻 Critical Infrastructure & Enterprise Hardware
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-
-#### 🤖 Automation, Networks & AI
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-
-#### 📋 Governance & Project Management
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
+![SENIOR SPECIALIST](https://shields.io) ![IBM LEVEL 3](https://shields.io) ![IEEE SA COMMITTEE](https://shields.io) ![N8N AUTOMATION](https://shields.io) ![CEO](https://shields.io)
+![DISASTER RECOVERY](https://shields.io) ![DIGITAL RESILIENCE](https://shields.io)
 
 ---
 
-### 📈 Recent Highlights (2026)
-* 🔬 **Research & Patents:** Creator of the *Cognitive Resilient Core (CRC)* architecture and Global Semifinalist in the *IEEE Response Quest Challenge*.
-* 🚀 **Innovation:** Selected for the International Business Mission in Artificial Intelligence in San Francisco (USA).
+### Featured open source work
+
+**Cognitive Resilient Core (CRC)**  
+An advanced architectural framework engineered to automate failover mechanics and telemetry monitoring in legacy infrastructures. Designed as a prototype to optimize disaster recovery actions under high-pressure enterprise environments. Developed and submitted as part of global tech research challenges.
 
 ---
 
-### 📫 Connect with me
+### What I work with
 
-📬 **Email:**  servicetechbrasil@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/alyssonmiclos/
-🆔 **ORCID:** [0009-0002-5779-2451](https://orcid.org)  
-📍 **Location:**Brazil
+* **Enterprise & Critical Hardware:** IBM Mainframes (zSeries, pSeries, Power Systems), IBM Shark, DASD 2105, DS4000-DS8000, IBM XIV, FlashSystem, Storwize, automated tape libraries (TS4500).
+* **Automation & Core AI:** Advanced N8N orchestration workflows, LLM integration, intelligent cognitive agents, and automated operational scripts.
+* **Networking & Telecom Architecture:** Cisco environments, VoIP systems, core routing and switching, structured fiber optics, and telecom -48 V DC power setups.
+* **Banking & Retail Systems:** Operational sustenance for core banking environments, automated teller machines (ATMs: Wincor, Diebold, NCR, Unisys), and industrial ICS/OT automation.
+* **Governance & Standards:** IEEE Standards Association protocols, MBA project management frameworks, LGPD compliance, cybersecurity, and data center energy metrics (PUE/WUE).
+
+
