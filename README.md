@@ -9,8 +9,15 @@ Currently focused on leading **Servicetech Services in Technology**, deploying c
 
 I care about systemic resilience, hardware-level diagnostics, pragmatic systems engineering, and engineering bulletproof infrastructures that prevent catastrophic business downtime.
 
-![SENIOR SPECIALIST](https://shields.io) ![IBM LEVEL 3](https://shields.io) ![IEEE SA COMMITTEE](https://shields.io) ![N8N AUTOMATION](https://shields.io) ![CEO](https://shields.io)
-![DISASTER RECOVERY](https://shields.io) ![DIGITAL RESILIENCE](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Senior Specialist" />
+  <img src="https://shields.io" alt="IBM" />
+  <img src="https://shields.io" alt="IEEE" />
+  <img src="https://shields.io" alt="N8N" />
+  <img src="https://shields.io" alt="CEO" />
+  <img src="https://shields.io" alt="DR" />
+  <img src="https://shields.io" alt="Resilience" />
+</p>
 
 ---
 
@@ -29,4 +36,9 @@ An advanced architectural framework engineered to automate failover mechanics an
 * **Banking & Retail Systems:** Operational sustenance for core banking environments, automated teller machines (ATMs: Wincor, Diebold, NCR, Unisys), and industrial ICS/OT automation.
 * **Governance & Standards:** IEEE Standards Association protocols, MBA project management frameworks, LGPD compliance, cybersecurity, and data center energy metrics (PUE/WUE).
 
+---
+
+
+💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)  
+🆔 **ORCID Academic ID:** [0009-0002-5779-2451](https://orcid.org)  
 
