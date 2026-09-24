@@ -1,4 +1,4 @@
-# Hi there, I'm Alysson de Almeida Miclos 
+# Hi there, I'm Alysson Miclos 
 
 ### Senior IT Infrastructure Specialist | Digital Resilience Architect | CEO at SERVICETECH
 
