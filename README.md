@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Alysson de Almeida Miclos 👋
 
-<!--
-**Alysson-Miclos/Alysson-Miclos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior IT Infrastructure Specialist | Digital Resilience Architect | CEO at SERVICETECH
 
-Here are some ideas to get you started:
+Senior specialist with over 22 years of experience in high-complexity technological infrastructure, project management, and mission-critical environments. Former IBM Level 3 Specialist (the highest tier of technical field seniority) with a 17-year career at IBM Brazil. Currently Founder & CEO at **Servicetech**, leading specialized consulting in systemic resilience, business continuity, automated workflows, and IT governance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Active International Member of the **IEEE** and the International Technical Committee (IEEE SA).
+
+---
+
+### 🛠️ Core Expertise & Technologies
+
+#### 💻 Critical Infrastructure & Enterprise Hardware
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+
+#### 🤖 Automation, Networks & AI
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+
+#### 📋 Governance & Project Management
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+
+---
+
+### 📈 Recent Highlights (2026)
+* 🔬 **Research & Patents:** Creator of the *Cognitive Resilient Core (CRC)* architecture and Global Semifinalist in the *IEEE Response Quest Challenge*.
+* 🚀 **Innovation:** Selected for the International Business Mission in Artificial Intelligence in San Francisco (USA).
+
+---
+
+### 📫 Connect with me
+
+📬 **Email:**  servicetechbrasil@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/alyssonmiclos/
+🆔 **ORCID:** [0009-0002-5779-2451](https://orcid.org)  
+📍 **Location:**Brazil
