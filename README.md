@@ -9,8 +9,6 @@ Currently focused on leading **Servicetech Services in Technology**, deploying c
 
 I care about systemic resilience, hardware-level diagnostics, pragmatic systems engineering, and engineering bulletproof infrastructures that prevent catastrophic business downtime.
 
-![Senior Specialist](https://shields.io) ![IBM](https://shields.io) ![IEEE](https://shields.io) ![N8N](https://shields.io) ![CEO](https://shields.io) ![DR](https://shields.io) ![Resilience](https://shields.io)
-
 ---
 
 ### Featured open source work
@@ -30,6 +28,7 @@ An advanced architectural framework engineered to automate failover mechanics an
 
 ---
 
- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)  
- **ORCID Academic ID:** [0009-0002-5779-2451](https://orcid.org)  
+ 
+💼 **LinkedIn:** www.linkedin.com/in/alyssonmiclos 
+🆔 **ORCID Academic ID:** [0009-0002-5779-2451](https://orcid.org)  
 
